@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/example_drivers/ralink/proslic_ppt_mb/si3226
+END
+proslic_spi_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/example_drivers/ralink/proslic_ppt_mb/si3226/proslic_spi_api.c
+END
+proslic_spiGci_parallelPort.c
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/example_drivers/ralink/proslic_ppt_mb/si3226/proslic_spiGci_parallelPort.c
+END

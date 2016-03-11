@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/ase
+END
+filters.S
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/ase/filters.S
+END
+acelp_cas.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/ase/acelp_cas.S
+END
+oper_32bs.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/ase/oper_32bs.S
+END
+basic_ops.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/ase/basic_ops.S
+END

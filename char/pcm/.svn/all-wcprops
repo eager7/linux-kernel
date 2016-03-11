@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm
+END
+pcm_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/pcm_ctrl.c
+END
+slic_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/slic_ctrl.h
+END
+pcm_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/pcm_ctrl.h
+END
+Makefile.release
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/Makefile.release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/README
+END
+slic_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/slic_ctrl.c
+END

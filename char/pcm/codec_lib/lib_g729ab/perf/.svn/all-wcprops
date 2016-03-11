@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/perf
+END
+perf_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/perf/perf_index.h
+END
+perf_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/perf/perf_util.c
+END
+perf.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/perf/perf.c
+END
+perf.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/perf/perf.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/spdif
+END
+spdif_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/spdif/spdif_ctrl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/spdif/Makefile
+END
+spdif_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/spdif/spdif_ctrl.h
+END

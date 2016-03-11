@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab
+END
+sid.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/sid.h
+END
+basic_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/basic_op.h
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/filter.c
+END
+tab_dtx.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/tab_dtx.c
+END
+p_parity.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/p_parity.c
+END
+gainpred.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/gainpred.c
+END
+tab_dtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/tab_dtx.h
+END
+dec_sid.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dec_sid.c
+END
+lpcfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/lpcfunc.c
+END
+de_acelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/de_acelp.c
+END
+ld8a.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/ld8a.h
+END
+cor_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/cor_func.c
+END
+dec_lag3.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dec_lag3.c
+END
+bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/bits.c
+END
+qsidlsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/qsidlsf.c
+END
+decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/decoder.c
+END
+post_pro.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/post_pro.c
+END
+pitch_a.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/pitch_a.c
+END
+g729abdecoder_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/g729abdecoder_api.c
+END
+oper_32b.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/oper_32b.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/util.c
+END
+tab_ld8a.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/tab_ld8a.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/lpc.c
+END
+lspgetq.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/lspgetq.c
+END
+oper_32b.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/oper_32b.h
+END
+tab_ld8a.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/tab_ld8a.h
+END
+qua_gain.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/qua_gain.c
+END
+acelp_ca.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/acelp_ca.c
+END
+dec_gain.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dec_gain.c
+END
+coder.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/coder.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/Makefile
+END
+dtx.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dtx.c
+END
+dec_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dec_struct.c
+END
+qsidgain.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/qsidgain.c
+END
+g729_var.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/g729_var.c
+END
+g729abcoder_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/g729abcoder_api.c
+END
+dspfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dspfunc.c
+END
+calcexc.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/calcexc.c
+END
+dec_ld8a.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dec_ld8a.c
+END
+dtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dtx.h
+END
+qua_lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/qua_lsp.c
+END
+dec_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/dec_struct.h
+END
+postfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/postfilt.c
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/typedef.h
+END
+cod_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/cod_struct.c
+END
+pre_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/pre_proc.c
+END
+vad.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/vad.c
+END
+lspdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/lspdec.c
+END
+pred_lt3.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/pred_lt3.c
+END
+cod_ld8a.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/cod_ld8a.c
+END
+mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/mips.h
+END
+cod_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/cod_struct.h
+END
+vad.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/vad.h
+END
+basic_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/basic_op.c
+END
+taming.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/taming.c
+END
+basic_op_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/basic_op_inline.h
+END
+octet.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/codec_lib/lib_g729ab/octet.h
+END

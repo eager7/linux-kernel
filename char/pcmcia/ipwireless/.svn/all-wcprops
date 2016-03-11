@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/main.h
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/network.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/Makefile
+END
+hardware.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/hardware.c
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/network.h
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/tty.c
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/hardware.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/main.c
+END
+tty.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/tty.h
+END
+setup_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/ipwireless/setup_protocol.h
+END

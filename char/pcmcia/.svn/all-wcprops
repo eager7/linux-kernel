@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia
+END
+cm4000_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/cm4000_cs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/Makefile
+END
+cm4040_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/cm4040_cs.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/Kconfig
+END
+synclink_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/synclink_cs.c
+END
+cm4040_cs.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcmcia/cm4040_cs.h
+END

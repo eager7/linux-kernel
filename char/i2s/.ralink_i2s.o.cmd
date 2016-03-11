@@ -1,0 +1,1 @@
+cmd_drivers/char/i2s/ralink_i2s.o := /opt/buildroot-gcc342/bin/mipsel-linux-ld  -m elf32ltsmip   -r -o drivers/char/i2s/ralink_i2s.o drivers/char/i2s/i2s_ctrl.o drivers/char/i2s/i2s_debug.o drivers/char/i2s/wm8960.o 

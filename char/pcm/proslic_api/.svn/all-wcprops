@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api
+END
+slic_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/slic_init.c
+END
+fxo_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/fxo_init.c
+END
+slic_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/slic_init.h
+END

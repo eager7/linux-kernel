@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/example_drivers/dummy/spi
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/example_drivers/dummy/spi/spi.h
+END
+dummy_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/frd/Research/!svn/ver/5/Wifi/linux/mtk/sdk_v4210/source/linux-2.6.36.x/drivers/char/pcm/proslic_api/example_drivers/dummy/spi/dummy_spi.c
+END
